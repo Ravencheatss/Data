@@ -1,1 +1,1 @@
-expiry_date = "2024-08-27"
+expiry_date = "2024-08-25"

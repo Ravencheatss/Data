@@ -11,5 +11,10 @@ return {
             password = "star", 
             expiry_date = "2024-12-31 18:00" 
         },
+        { 
+            login = "drakosha", 
+            password = "drakon", 
+            expiry_date = "2024-08-27 18:00" 
+        },        
     }
 }

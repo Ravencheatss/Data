@@ -40,6 +40,21 @@ return {
             login = "Derty3434", 
             password = "cacrodi1", 
             expiry_date = "2024-08-27 18:00" 
-        },         
+        }, 
+        { 
+            login = "Raychik", 
+            password = "Raychik2288", 
+            expiry_date = "2024-08-27 18:00" 
+        },  
+        { 
+            login = "Angelinka_Legion", 
+            password = "1qaz0plm", 
+            expiry_date = "2024-08-27 18:00" 
+        },      
+        { 
+            login = "pomidor", 
+            password = "krutoy", 
+            expiry_date = "2024-08-27 18:00" 
+        },        
     }
 }

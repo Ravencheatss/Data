@@ -25,6 +25,11 @@ return {
             login = "Egorka", 
             password = "Anapa2008", 
             expiry_date = "2024-08-27 18:00" 
+        },
+        { 
+            login = "amir777", 
+            password = "norton91", 
+            expiry_date = "2024-08-27 18:00" 
         },        
     }
 }

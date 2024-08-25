@@ -64,7 +64,7 @@ return {
         { 
             login = "Sigma", 
             password = "Sotka228", 
-            expiry_date = "2024-08-26 18:00" 
+            expiry_date = "2024-08-29 18:00" 
         },         
     }
 }

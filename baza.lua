@@ -60,6 +60,11 @@ return {
             login = "Tesak2010", 
             password = "Mishanya2010", 
             expiry_date = "2024-08-27 18:00" 
-        },        
+        },     
+        { 
+            login = "Sigma", 
+            password = "Sotka228", 
+            expiry_date = "2024-08-26 18:00" 
+        },         
     }
 }

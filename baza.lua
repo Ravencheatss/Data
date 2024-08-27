@@ -29,7 +29,7 @@ return {
         { 
             login = "amir777", 
             password = "norton91", 
-            expiry_date = "2024-08-27 18:00" 
+            expiry_date = "2024-09-28 18:00" 
         },    
         { 
             login = "Samir3749", 

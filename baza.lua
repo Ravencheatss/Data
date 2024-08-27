@@ -27,9 +27,9 @@ return {
             expiry_date = "2024-08-27 18:00" 
         },
         { 
-            login = "amir777", 
+            login = "amir777", -- купил
             password = "norton91", 
-            expiry_date = "2024-09-28 18:00" 
+            expiry_date = "2024-09-29 18:00" 
         },    
         { 
             login = "Samir3749", 
@@ -62,9 +62,9 @@ return {
             expiry_date = "2024-08-27 18:00" 
         },     
         { 
-            login = "Sigma", 
+            login = "Sigma", -- купил
             password = "Sotka228", 
-            expiry_date = "2024-08-29 18:00" 
+            expiry_date = "2024-08-30 18:00" 
         },         
     }
 }

@@ -65,6 +65,11 @@ return {
             login = "Sigma", -- купил
             password = "Sotka228", 
             expiry_date = "2024-08-30" 
-        },         
+        },
+        { 
+            login = "idevil2018", -- купил
+            password = "13082004", 
+            expiry_date = "2024-09-29" 
+        },        
     }
 }

@@ -71,10 +71,6 @@ return {
             password = "13082004", 
             expiry_date = "2024-09-29" 
         },
-         { 
-            login = "qwertyui90", -- купил
-            password = "qwertyui90", 
-            expiry_date = "2024-09-05" 
-        },       
+         {        
     }
 }

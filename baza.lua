@@ -32,7 +32,7 @@ return {
             expiry_date = "2024-09-29" 
         },
         { 
-            login = "32bit", -- купил
+            login = "32bit", -- подарил
             password = "32bit1023", 
             expiry_date = "2024-09-29" 
         },          

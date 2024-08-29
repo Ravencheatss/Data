@@ -30,6 +30,11 @@ return {
             login = "idevil2018", -- купил
             password = "13082004", 
             expiry_date = "2024-09-29" 
-        },       
+        },
+        { 
+            login = "32bit", -- купил
+            password = "32bit1023", 
+            expiry_date = "2024-09-29" 
+        },          
     }
 }

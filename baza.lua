@@ -35,6 +35,11 @@ return {
             login = "32bit", -- подарил
             password = "32bit1023", 
             expiry_date = "2024-09-29" 
-        },          
+        },   
+        { 
+            login = "Egorka", -- подарил
+            password = "Anapa2008", 
+            expiry_date = "2024-09-29" 
+        },           
     }
 }

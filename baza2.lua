@@ -14,22 +14,22 @@ return {
         { 
             login = "amir777", -- купил
             password = "norton91", 
-            expiry_date = "2024-09-29" 
+            expiry_date = "2024-10-02" 
         },          
         { 
             login = "lord", 
             password = "pepsi88", 
-            expiry_date = "2024-09-23" 
+            expiry_date = "2024-09-26" 
         },     
         { 
-            login = "Inercia", -- купил
-            password = "Inercia328", 
-            expiry_date = "2024-09-13" 
+            login = "1", -- купил
+            password = "1", 
+            expiry_date = "2024-09-19" 
         },
         { 
             login = "idevil2018", -- купил
             password = "13082004", 
-            expiry_date = "2024-09-29" 
+            expiry_date = "2024-10-02" 
         },
         { 
             login = "32bit", -- подарил

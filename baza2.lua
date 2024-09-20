@@ -22,9 +22,9 @@ return {
             expiry_date = "2024-09-26" 
         },     
         { 
-            login = "free", -- купил
-            password = "free", 
-            expiry_date = "2024-09-19" 
+            login = "santik", -- купил
+            password = "santik667", 
+            expiry_date = "2024-09-24" 
         },
         { 
             login = "idevil2018", -- купил

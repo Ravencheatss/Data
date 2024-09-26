@@ -27,6 +27,11 @@ return {
             expiry_date = "2024-09-30" 
         },
         { 
+            login = "tresh", -- купил
+            password = "tresh5491", 
+            expiry_date = "2024-10-27" 
+        },
+        { 
             login = "idevil2018", -- купил
             password = "13082004", 
             expiry_date = "2024-10-02" 

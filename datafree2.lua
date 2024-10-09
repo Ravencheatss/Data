@@ -1,1 +1,1 @@
-script_enabled = false
+is_active = true

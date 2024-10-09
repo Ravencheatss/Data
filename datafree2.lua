@@ -1,1 +1,1 @@
-expiry_date = "2024-12-27"
+script_enabled = true -- or false, depending on your needs

@@ -1,1 +1,1 @@
-script_enabled = true -- or false, depending on your needs
+script_enabled = false -- or false, depending on your needs

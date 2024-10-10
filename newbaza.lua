@@ -25,7 +25,7 @@ return {
         { 
             login = "free", 
             password = "free", 
-            is_active = true, 
+            is_active = false, 
             note = "2024-10-02", 
             device_id = ""
         },     

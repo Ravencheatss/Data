@@ -1,5 +1,5 @@
 return {
-    script_enabled = false, 
+    script_enabled = true, 
     users = {  
         { 
             login = "free", -- подарил

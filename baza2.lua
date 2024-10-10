@@ -1,5 +1,5 @@
 return {
-    script_expiry_date = "2024-12-31", 
+    script_expiry_date = "2023-12-31", 
     users = {
         { 
             login = "raven", 

@@ -1,1 +1,1 @@
-is_active = true
+expiry_date = "2023-12-27"

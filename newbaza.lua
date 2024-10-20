@@ -58,10 +58,10 @@ return {
             device_id = ""
         },   
         { 
-            login = "Lenar", -- подарил
+            login = "1234", -- подарил
             password = "qwe6789", 
             is_active = true, 
-            note = "2024-10-17", 
+            note = "2024-11-21", 
             device_id = ""
         },           
     }

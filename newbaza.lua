@@ -37,10 +37,10 @@ return {
             device_id = ""
         },
         { 
-            login = "tresh", -- купил
-            password = "tresh5491", 
-            is_active = false, 
-            note = "2024-10-27", 
+            login = "tg", -- купил
+            password = "gg4971", 
+            is_active = true, 
+            note = "2024-10-24", 
             device_id = ""
         },
         { 
